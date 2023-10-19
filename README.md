@@ -1,6 +1,39 @@
 # management-system-reactjss
 O sistema de chamados foi desenvolvido com o objetivo de gerenciar solicitações e ocorrências de forma eficiente. Utilizamos React JS para a criação das interfaces, proporcionando uma experiência dinâmica e responsiva para os usuários.
 
+# Ticket Management System
+
+Um sistema robusto para gerenciar chamados técnicos e solicitações de clientes.
+
+## Sobre
+
+O `Ticket Management System` é uma solução projetada para empresas e organizações que buscam uma maneira eficiente de gerenciar chamados técnicos e interações com o cliente. Seja para visitas técnicas, suporte ou qualquer outro tipo de assistência, nosso sistema ajuda a manter tudo organizado e acessível.
+
+## Características:
+
+- **Lista de Chamados:** Visualize todos os chamados em um único lugar, com detalhes como cliente, assunto e status.
+  
+- **Detalhes do Chamado:** Acesse informações detalhadas de cada chamado, incluindo data de cadastro e status.
+  
+- **Edição de Chamado:** Atualize facilmente os detalhes de um chamado, altere o status ou adicione informações complementares.
+
+## Começando
+
+1. Clone o repositório: `git clone https://github.com/[seu-usuario]/TicketManagementSystem.git`
+2. Siga as instruções de instalação disponíveis na documentação.
+
+## Contribuição
+
+Sinta-se à vontade para contribuir com este projeto, seja adicionando novas funcionalidades, corrigindo bugs ou melhorando a documentação. Todas as contribuições são bem-vindas!
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+
+
+
+
 - Tela de Login
 <img width="1720" alt="Screenshot 2023-10-19 at 16 25 13" src="https://github.com/thiarly/management-system-reactjss/assets/13594903/19678d3b-96b6-486c-9646-430f31576f0f">
 
